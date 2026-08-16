@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-public final class MessageConfig {
+final class MessageConfig {
 
     private static final MiniMessage MINI_MESSAGE = MiniMessage.miniMessage();
     private static final Map<String, String> overrides = new HashMap<>();
