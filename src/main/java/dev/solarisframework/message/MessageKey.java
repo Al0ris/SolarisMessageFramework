@@ -1,4 +1,4 @@
-package io.github.Al0ris;
+package dev.solarisframework.message;
 
 public record MessageKey(
         String id,
