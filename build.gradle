@@ -2,8 +2,8 @@ plugins {
     id 'java-library'
 }
 
-group = 'io.github.solarismessageframework'
-version = '1.0-SNAPSHOT'
+group = 'io.github.Al0ris'
+version = '0.1.0'
 
 repositories {
     mavenCentral()

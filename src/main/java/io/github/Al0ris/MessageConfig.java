@@ -1,4 +1,4 @@
-package io.github.solarismessageframework;
+package io.github.Al0ris;
 
 import net.kyori.adventure.audience.Audience;
 import net.kyori.adventure.text.Component;
